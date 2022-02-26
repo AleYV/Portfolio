@@ -2,4 +2,4 @@
 
 Enlace: https://aleyv.github.io/Portfolio/
 
-[<img src="http://g.recordit.co/Fb5uPyq3zu.gif">](http://g.recordit.co/Fb5uPyq3zu.gif)
+![Portfolio](http://g.recordit.co/Fb5uPyq3zu.gif)
