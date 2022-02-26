@@ -2,4 +2,4 @@
 
 Enlace: https://aleyv.github.io/Portfolio/
 
-<img src="http://g.recordit.co/Fb5uPyq3zu.giff" width="40" height="40" />
+<img src="http://g.recordit.co/Fb5uPyq3zu.gif" width="100" height="100" />
