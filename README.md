@@ -2,4 +2,4 @@
 
 Enlace: https://aleyv.github.io/Portfolio/
 
-![](http://g.recordit.co/Fb5uPyq3zu.gif)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
