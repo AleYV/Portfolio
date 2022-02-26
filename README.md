@@ -2,4 +2,4 @@
 
 Enlace: https://aleyv.github.io/Portfolio/
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="http://g.recordit.co/Fb5uPyq3zu.giff" width="40" height="40" />
