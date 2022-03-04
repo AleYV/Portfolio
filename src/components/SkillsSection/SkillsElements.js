@@ -18,6 +18,10 @@ export const SkillContainer = styled.div`
     margin-left: auto;
     padding-top: 35px;
     align-content: center;
+
+    @media screen and (max-width: 768px){
+        justify-content: center;
+    }
 `;
 
 export const Title = styled.h2`
@@ -37,6 +41,7 @@ export const SkillsRow = styled.div`
 
     @media screen and (max-width: 768px){
         grid-template-areas: 'col1' 'col2';
+        align-items: center;
     }
 `;
 
@@ -47,7 +52,7 @@ export const Column1 = styled.div`
     border: 1px solid #fff;
     background-color:  rgb(255,255,255,0.25);
     border-radius: 1rem;
-    
+
 `;
 
 export const Column2 = styled.div`
@@ -57,6 +62,7 @@ export const Column2 = styled.div`
     border: 1px solid #fff;
     background-color:  rgb(255,255,255,0.25);
     border-radius: 1rem;
+
 `;
 
 
@@ -69,9 +75,15 @@ export const Box = styled.div`
     column-gap: 7rem;
     display: flex;
     justify-content: center;
+
+    @media screen and (max-width: 420px){
+        display: flex;
+        flex-wrap: wrap ;
+    }
 `;
 
 export const SkillsGroup = styled.div`
+   
 `;
 
 export const SkillData = styled.div`

@@ -18,6 +18,10 @@ export const PortfolioContainer = styled.div`
     margin-right: auto;
     margin-left: auto;
     padding: 0 5rem;
+
+    @media screen and (max-width: 768px){
+        padding: 0;
+    }
 `;
 
 export const Title = styled.h2`

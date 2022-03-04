@@ -12,6 +12,10 @@ export const AboutContainer = styled.div`
     @media screen and (max-width: 768px){
         padding-top: 80px;
     }
+
+    @media screen and (max-width: 540px){
+        padding-top: 100px;
+    }
 `;
 
 export const AboutWrapper = styled.div`
