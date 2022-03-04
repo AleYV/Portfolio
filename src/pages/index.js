@@ -24,7 +24,6 @@ function Home() {
             <About/>
             <Skills/>
             <Portfolio/>
-            {/*<Contact/>*/}
         </>
     );
 }

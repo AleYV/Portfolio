@@ -42,9 +42,7 @@ a{
     border-radius: 0.5rem;
 }
 
-
 #stars{
-    padding: 0;
     width: 1px;
     height: 1px;
     background: transparent;
@@ -415,7 +413,6 @@ a{
 }
 
 #stars2 {
-    padding: 0;
     width: 2px;
     height: 2px;
     background: transparent;
@@ -604,10 +601,10 @@ a{
 
 @keyframes animStar {
     from {
-        transform: translateY(0px);
+        transform: translateY(-300px);
     }
     to {
-        transform: translateY(-2000px);
+        transform: translateY(-1200px);
     }
 }
 
