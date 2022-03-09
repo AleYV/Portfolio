@@ -8,6 +8,7 @@ import { HomeContainer,
         Button,
         Bname} from './HomeElements';
 import Resume from '../../PDF/Resume.pdf';
+import 'animate.css';
 
 const HomeSection = () => {
 
@@ -15,17 +16,17 @@ const HomeSection = () => {
         <HomeS>
             <HomeContainer>
                 <HomeContent>
-                    <HomeP>
+                    <HomeP className='animate__animated animate__bounceIn'>
                         Hola Mundo
                     </HomeP>
-                    <HomeN>
+                    <HomeN className='animate__animated animate__fadeInDown animate__delay-1s'>
                         Soy Alesandra
                     </HomeN>
-                    <HomeH>
+                    <HomeH className='animate__animated animate__backInLeft animate__delay-2s'>
                         Desarrolladora Front-end
                     </HomeH>
                     <a href={Resume} filename='texto' download='CV-Alesandra-Yagi.pdf'>
-                        <Button>
+                        <Button className='animate__animated animate__flash animate__delay-4s'>
                             <Bname>Descargar CV</Bname>
                         </Button>
                     </a>

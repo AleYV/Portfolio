@@ -1,7 +1,7 @@
 import Gif from "../images/Gif.jpg";
-import Colors from '../images/Colors.jpg';
 import BTS from '../images/BTS.jpg';
 import Personal from '../images/Portafolio.png';
+import ToDoApp from '../images/ToDoApp.png';
 
 export const WebApplication = [
     {
@@ -14,7 +14,7 @@ export const WebApplication = [
         id: 2,
         title: "ToDo App",
         href: "",
-        img: Colors
+        img: ToDoApp
     }
 ]
 
@@ -28,7 +28,7 @@ export const SinglePage = [
     {
         id: 1,
         title: "Personal-Portfolio",
-        href: "",
+        href: "https://aleyv.github.io/Portfolio/",
         img: Personal
     }
 ]
