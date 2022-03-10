@@ -13,7 +13,7 @@ export const WebApplication = [
     {
         id: 2,
         title: "ToDo App",
-        href: "",
+        href: "https://github.com/AleYV/ToDoList",
         img: ToDoApp
     }
 ]
