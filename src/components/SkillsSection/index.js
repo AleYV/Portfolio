@@ -55,13 +55,6 @@ function Skills() {
                                         <SkillLevel>Intermediate</SkillLevel>
                                     </Skill>
                                 </SkillData>
-                                <SkillData>
-                                    <Check/>
-                                    <Skill>
-                                        <SkillName>Firebase</SkillName>
-                                        <SkillLevel>Basic</SkillLevel>
-                                    </Skill>
-                                </SkillData>
                             </SkillsGroup>
                             <SkillsGroup>
                                 <SkillData>
@@ -100,20 +93,31 @@ function Skills() {
                         Backend
                         </Subtitle>
                         <Box>
-                            <SkillData>
-                                <Check/>
-                                <Skill>
-                                    <SkillName>MySQL</SkillName>
-                                    <SkillLevel>Basic</SkillLevel>
-                                </Skill>
-                            </SkillData>
-                            <SkillData>
-                                <Check/>
-                                <Skill>
-                                    <SkillName>NodeJS</SkillName>
-                                    <SkillLevel>Basic</SkillLevel>
-                                </Skill>
-                            </SkillData>
+                            <SkillsGroup>
+                                <SkillData>
+                                    <Check/>
+                                    <Skill>
+                                        <SkillName>MySQL</SkillName>
+                                        <SkillLevel>Basic</SkillLevel>
+                                    </Skill>
+                                </SkillData>
+                                <SkillData>
+                                    <Check/>
+                                    <Skill>
+                                        <SkillName>NodeJS</SkillName>
+                                        <SkillLevel>Basic</SkillLevel>
+                                    </Skill>
+                                </SkillData>
+                            </SkillsGroup>
+                            <SkillsGroup>
+                                <SkillData>
+                                    <Check/>
+                                    <Skill>
+                                        <SkillName>Firebase</SkillName>
+                                        <SkillLevel>Basic</SkillLevel>
+                                    </Skill>
+                                </SkillData>
+                            </SkillsGroup>
                         </Box>
                     </Column2>
                 </SkillsRow>
